@@ -26,6 +26,7 @@ app = dash.Dash(
     __name__,
     external_stylesheets=[dbc.themes.CYBORG]
 )
+server = app.server  # Este es clave, para que la app corra en Render 
 
 # Estilos personalizados para tema oscuro
 app.layout = dbc.Container(
