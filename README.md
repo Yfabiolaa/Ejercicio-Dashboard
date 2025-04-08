@@ -44,7 +44,16 @@ python app.py
 
 4. Abre tu navegador y visita:
 http://localhost:8050/
+-----------
+👀 Vista previa
+![image](https://github.com/user-attachments/assets/d3ada289-6b5a-4369-9b3f-fcacba18b206)
 
+--------
+## 📧 Contacto  
+**Tu Nombre**  
+- ✉️ Email: fabiolay.acosta@ssteam.com.mx
+- 🔗 LinkedIn: [Fabiola Acosta]( https://www.linkedin.com/in/yetlanetzi-fabiola-a-b94a942a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌐 GitHub: @Yfabiolaa
 
-
+---
 
