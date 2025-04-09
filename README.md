@@ -24,26 +24,7 @@ Este proyecto es un **dashboard interactivo** que muestra la ubicación y caract
 - **GeoPandas** para manejo de información geoespacial
 - **Render** para despliegue del servidor
 
----
 
-## 📌 Cómo ejecutar localmente
-
-1. Clona el repositorio:
-
-git clone https://github.com/tu-usuario/proyecto-postes-wifi-cdmx.git
-cd proyecto-postes-wifi-cdmx
-
-2. Crea un entorno virtual e instala las dependencias necesarias:
-
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-3. Ejecuta la aplicación:
-python app.py
-
-4. Abre tu navegador y visita:
-http://localhost:8050/
 -----------
 👀 Vista previa
 ![image](https://github.com/user-attachments/assets/d3ada289-6b5a-4369-9b3f-fcacba18b206)
